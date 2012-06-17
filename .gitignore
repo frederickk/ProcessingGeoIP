@@ -1,0 +1,24 @@
+# Directories
+bin/
+distribution/
+reference/
+web/
+
+# Files
+*.project
+*.classpath
+readme.html
+
+# OS Files
+.DS_STORE?
+Icon?
+
+# Packages
+*.zip
+*.tar
+*.jar
+*.rar
+*.dmg
+*.gz
+*.7z
+*.iso
